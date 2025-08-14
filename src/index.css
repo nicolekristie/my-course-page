@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+  .circular-image {
+        width: 150px; /* Example size */
+        height: 150px; /* Must be equal to width */
+        border-radius: 50%;
+        object-fit: cover; /* Ensures image covers the circular area */
+    }
