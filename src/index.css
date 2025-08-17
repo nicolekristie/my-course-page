@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 
+
   .circular-image {
         width: 150px; /* Example size */
         height: 150px; /* Must be equal to width */
